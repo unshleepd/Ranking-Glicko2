@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ranking-glicko"
+version = "1"
+description = "Aplikacja do zarządzania rankingami zawodników w systemie Glicko-2 z interfejsem graficznym (GUI) opartym na bibliotece Tkinter. Umożliwia dodawanie zawodników, rozgrywanie meczów, automatyczną aktualizację rankingów, wyświetlanie historii meczów, tworzenie wykresów zmian rankingów oraz eksportowanie danych."
+authors = ["Your Name <you@example.com>"]
+license = "GPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+glicko2 = "^1.0.2"
+matplotlib = "^3.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
