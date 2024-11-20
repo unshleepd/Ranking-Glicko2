@@ -6,6 +6,11 @@ Aplikacja do zarządzania rankingami zawodników w systemie **Glicko-2** z inter
 
 ---
 
+## Dokumentacja
+Dokumentacja znajduje sie tutaj: [Ranking-Glicko2 Dokumentacja](https://unshleepd.github.io/Ranking-Glicko2/index.html)
+
+---
+
 ## 📖 Spis treści
 - [🎥 Demo](#-demo)
 - [✨ Funkcje](#-funkcje)
